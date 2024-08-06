@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://app.daily.dev/edwinparedes"><img src="https://api.daily.dev/devcards/v2/7LmjaPWAPDJVmfpINEZCI.png?r=f98&type=default" width="356" alt="Edwin Paredes's Dev Card"/></a>
 
 <!--
 **edwinrol/edwinrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
